@@ -1,5 +1,4 @@
-# Telstra_CyberSecurity
-** Telstra Cybersecurity Virtual Experience Program** by www.theforage.com
+# Telstra Cybersecurity Virtual Experience Program by www.theforage.com
 __________________________________________________________________________
 
 **Task_1(T1): Responding to a malware attack**
