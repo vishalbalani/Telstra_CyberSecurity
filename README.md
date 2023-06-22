@@ -1,5 +1,6 @@
 # telstra_cybersecurity
 ** Telstra Cybersecurity Virtual Experience Program** by www.theforage.com
+__________________________________________________________________________
 
 **Task_1(T1): Responding to a malware attack**
 
@@ -11,16 +12,19 @@ After, draft an email to the respective team alerting them of the current attack
 
 The purpose of this email is to ensure the respective team is aware of the ongoing incident and to be prepared for mitigation advice.
 
+-----------------------------------------------------------------
 
 **Task_2(T2): Analysing the attack**
 
 Draft an email to develope a Firewall Rule to Mitigate malware attack
 
+-----------------------------------------------------------------
 
 **Task_3(T3): (Technical) Mitigate the malware attack**
 
 Use Python to develop a firewall rule to mitigate the attack. Develop this rule in `firewall_server.py`.
 
+-----------------------------------------------------------------
 
 **Task_4(T4): Incident Postmortem**
 
