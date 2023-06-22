@@ -2,6 +2,7 @@
 ** Telstra Cybersecurity Virtual Experience Program** by www.theforage.com
 
 **Task_1(T1): Responding to a malware attack**
+
 Your task is to triage the current malware threat and figure out which infrastructure is affected.
 
 First, find out which key infrastructure is currently under attack. Note the priority of the affected infrastructure to the company - this will determine who is the respective team to notify.
@@ -12,12 +13,15 @@ The purpose of this email is to ensure the respective team is aware of the ongoi
 
 
 **Task_2(T2): Analysing the attack**
+
 Draft an email to develope a Firewall Rule to Mitigate malware attack
 
 
 **Task_3(T3): (Technical) Mitigate the malware attack**
+
 Use Python to develop a firewall rule to mitigate the attack. Develop this rule in `firewall_server.py`.
 
 
 **Task_4(T4): Incident Postmortem**
+
 Create an incident postmortem of the malware attack, covering the details you have picked up in the previous tasks.
