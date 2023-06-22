@@ -3,7 +3,7 @@ __________________________________________________________________________
 
 **Task_1(T1): Responding to a malware attack**
 
-Your task is to triage the current malware threat and figure out which infrastructure is affected.
+This task is to triage the current malware threat and figure out which infrastructure is affected.
 
 First, find out which key infrastructure is currently under attack. Note the priority of the affected infrastructure to the company - this will determine who is the respective team to notify.
 
