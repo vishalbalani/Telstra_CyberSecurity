@@ -1,4 +1,4 @@
-# telstra_cybersecurity
+# Telstra_CyberSecurity
 ** Telstra Cybersecurity Virtual Experience Program** by www.theforage.com
 __________________________________________________________________________
 
